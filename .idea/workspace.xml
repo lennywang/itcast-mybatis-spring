@@ -2,7 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="25991239-7146-4604-8edb-bdc08b3f5e43" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_4_2_4_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/readme.md" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/mybatis-spring.iml" afterPath="$PROJECT_DIR$/mybatis-spring.iml" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/applicationContext.xml" afterPath="$PROJECT_DIR$/src/main/resources/applicationContext.xml" />
+      <change beforePath="$PROJECT_DIR$/target/classes/applicationContext.xml" afterPath="$PROJECT_DIR$/target/classes/applicationContext.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -18,9 +24,22 @@
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="529">
-              <caret line="62" column="46" lean-forward="false" selection-start-line="62" selection-start-column="46" selection-end-line="62" selection-end-column="46" />
+            <state relative-caret-position="297">
+              <caret line="11" column="24" lean-forward="false" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="readme.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/readme.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SECOND">
+              <first_editor relative-caret-position="54">
+                <caret line="2" column="57" lean-forward="false" selection-start-line="2" selection-start-column="57" selection-end-line="2" selection-end-column="57" />
+                <folding />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -28,7 +47,7 @@
       <file leaf-file-name="applicationContext.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/target/classes/applicationContext.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-81">
+            <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
@@ -55,34 +74,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="sqlMapConfig.xml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="sqlMapConfig.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/target/classes/sqlMapConfig.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="351">
+              <caret line="13" column="16" lean-forward="false" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="User.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/itcast/pojo/User.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="UserMapper.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/itcast/mapper/UserMapper.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="12" column="19" lean-forward="false" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
-              <folding>
-                <marker date="1574005652561" expanded="true" signature="246:272" ph="SELECT * FRO... user" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -100,8 +97,18 @@
       <file leaf-file-name="applicationContext.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/resources/applicationContext.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="467">
-              <caret line="31" column="64" lean-forward="false" selection-start-line="31" selection-start-column="64" selection-end-line="31" selection-end-column="64" />
+            <state relative-caret-position="675">
+              <caret line="25" column="24" lean-forward="false" selection-start-line="25" selection-start-column="24" selection-end-line="25" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sqlMapConfig.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/sqlMapConfig.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="243">
+              <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -110,7 +117,7 @@
       <file leaf-file-name="MyBatisSpringTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/itcast/test/MyBatisSpringTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
+            <state relative-caret-position="243">
               <caret line="13" column="9" lean-forward="false" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -153,12 +160,13 @@
         <option value="$PROJECT_DIR$/src/main/resources/log4j.properties" />
         <option value="$PROJECT_DIR$/src/main/resources/jdbc.properties" />
         <option value="$PROJECT_DIR$/src/main/resources/sqlMapConfig.xml" />
-        <option value="$PROJECT_DIR$/src/main/resources/applicationContext.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/itcast/mapper/UserMapper.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/itcast/test/MyBatisSpringTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/itcast/mapper/UserMapper.xml" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/target/classes/sqlMapConfig.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/applicationContext.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/readme.md" />
       </list>
     </option>
   </component>
@@ -168,7 +176,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-11" />
     <option name="y" value="-11" />
     <option name="width" value="1942" />
@@ -190,9 +198,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="Scratches" />
+      <pane id="PackagesPane" />
       <pane id="AndroidView" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -200,82 +208,11 @@
               <item name="mybatis-spring" type="b2602c69:ProjectViewProjectNode" />
               <item name="mybatis-02-2" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="mybatis-spring" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mybatis-02-2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mybatis-spring" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mybatis-02-2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mybatis-spring" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mybatis-02-2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mybatis-spring" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mybatis-02-2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="itcast" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mybatis-spring" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mybatis-02-2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="itcast" type="462c0819:PsiDirectoryNode" />
-              <item name="mapper" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mybatis-spring" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mybatis-02-2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="itcast" type="462c0819:PsiDirectoryNode" />
-              <item name="pojo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mybatis-spring" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mybatis-02-2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="itcast" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mybatis-spring" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mybatis-02-2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mybatis-spring" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mybatis-02-2" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mybatis-spring" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mybatis-02-2" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-              <item name="classes" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -427,6 +364,8 @@
       <workItem from="1574002065656" duration="1077000" />
       <workItem from="1574003268600" duration="1655000" />
       <workItem from="1574005245598" duration="1594000" />
+      <workItem from="1574086610007" duration="1695000" />
+      <workItem from="1574088349591" duration="27000" />
     </task>
     <servers />
   </component>
@@ -446,28 +385,36 @@
     <history-entry file="MyBatisSpringTest_testMapper - 2019.11.17 at 23h 58m 38s.xml">
       <configuration name="MyBatisSpringTest.testMapper" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="MyBatisSpringTest_testMapper - 2019.11.18 at 22h 23m 16s.xml">
+      <configuration name="MyBatisSpringTest.testMapper" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MyBatisSpringTest_testMapper - 2019.11.18 at 22h 27m 18s.xml">
+      <configuration name="MyBatisSpringTest.testMapper" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MyBatisSpringTest_testMapper - 2019.11.18 at 22h 30m 13s.xml">
+      <configuration name="MyBatisSpringTest.testMapper" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6147000" />
+    <option name="totallyTimeSpent" value="7869000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-11" y="-11" width="1942" height="1042" extended-state="6" />
+    <frame x="-11" y="-11" width="1942" height="1042" extended-state="7" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32881773" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.43103448" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.43086419" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32962963" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32962963" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.387689" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39470842" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -479,6 +426,7 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32839507" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -494,19 +442,10 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="20" column="21" lean-forward="false" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/itcast/pojo/User.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="297">
           <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -514,7 +453,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
           <caret line="7" column="16" lean-forward="false" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -522,9 +460,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
           <caret line="8" column="10" lean-forward="false" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
-          <folding>
-            <marker date="1574005652561" expanded="true" signature="246:272" ph="SELECT * FRO... user" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -556,57 +491,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
           <caret line="41" column="22" lean-forward="false" selection-start-line="41" selection-start-column="13" selection-end-line="41" selection-end-column="34" />
-          <folding>
-            <marker date="1560953230862" expanded="false" signature="0:104" ph="/.../" />
-            <marker date="1560953230862" expanded="false" signature="142:1749" ph="..." />
-            <marker date="1560953230862" expanded="true" signature="2960:2967" ph="{}" />
-            <marker date="1560953230862" expanded="false" signature="3030:3041" ph=" { " />
-            <marker date="1560953230862" expanded="false" signature="3076:3082" ph=" }" />
-            <marker date="1560953230862" expanded="true" signature="3167:3232" ph="{...}" />
-            <marker date="1560953230862" expanded="false" signature="3287:3298" ph=" { " />
-            <marker date="1560953230862" expanded="false" signature="3329:3335" ph=" }" />
-            <marker date="1560953230862" expanded="true" signature="3414:3475" ph="{...}" />
-            <marker date="1560953230862" expanded="false" signature="3517:3528" ph=" { " />
-            <marker date="1560953230862" expanded="false" signature="3544:3550" ph=" }" />
-            <marker date="1560953230862" expanded="false" signature="3600:3611" ph=" { " />
-            <marker date="1560953230862" expanded="false" signature="3626:3632" ph=" }" />
-            <marker date="1560953230862" expanded="false" signature="3661:3672" ph=" { " />
-            <marker date="1560953230862" expanded="false" signature="3690:3696" ph=" }" />
-            <marker date="1560953230862" expanded="false" signature="3735:3746" ph=" { " />
-            <marker date="1560953230862" expanded="false" signature="3765:3771" ph=" }" />
-            <marker date="1560953230862" expanded="false" signature="3822:3833" ph=" { " />
-            <marker date="1560953230862" expanded="false" signature="3856:3862" ph=" }" />
-            <marker date="1560953230862" expanded="false" signature="3928:3939" ph=" { " />
-            <marker date="1560953230862" expanded="false" signature="3984:3990" ph=" }" />
-            <marker date="1560953230862" expanded="true" signature="4063:4128" ph="{...}" />
-            <marker date="1560953230862" expanded="false" signature="4196:4207" ph=" { " />
-            <marker date="1560953230862" expanded="false" signature="4254:4260" ph=" }" />
-            <marker date="1560953230862" expanded="false" signature="4324:4335" ph=" { " />
-            <marker date="1560953230862" expanded="false" signature="4368:4374" ph=" }" />
-            <marker date="1560953230862" expanded="false" signature="4430:4441" ph=" { " />
-            <marker date="1560953230862" expanded="false" signature="4472:4478" ph=" }" />
-            <marker date="1560953230862" expanded="false" signature="4525:4536" ph=" { " />
-            <marker date="1560953230862" expanded="false" signature="4561:4567" ph=" }" />
-            <marker date="1560953230862" expanded="false" signature="4627:4638" ph=" { " />
-            <marker date="1560953230862" expanded="false" signature="4675:4681" ph=" }" />
-            <marker date="1560953230862" expanded="false" signature="4744:4755" ph=" { " />
-            <marker date="1560953230862" expanded="false" signature="4790:4796" ph=" }" />
-            <marker date="1560953230862" expanded="false" signature="4860:4871" ph=" { " />
-            <marker date="1560953230862" expanded="false" signature="4910:4916" ph=" }" />
-            <marker date="1560953230862" expanded="true" signature="5001:5076" ph="{...}" />
-            <marker date="1560953230862" expanded="true" signature="5131:5376" ph="{...}" />
-            <marker date="1560953230862" expanded="true" signature="5473:5546" ph="{...}" />
-            <marker date="1560953230862" expanded="true" signature="5625:5686" ph="{...}" />
-            <marker date="1560953230862" expanded="false" signature="5738:5749" ph=" { " />
-            <marker date="1560953230862" expanded="false" signature="5780:5786" ph=" }" />
-            <marker date="1560953230862" expanded="true" signature="5842:6320" ph="{...}" />
-            <marker date="1560953230862" expanded="true" signature="6398:13234" ph="{...}" />
-            <marker date="1560953230862" expanded="true" signature="13294:13436" ph="{...}" />
-            <marker date="1560953230862" expanded="true" signature="13500:13616" ph="{...}" />
-            <marker date="1560953230862" expanded="false" signature="13650:13661" ph=" { " />
-            <marker date="1560953230862" expanded="false" signature="13673:13679" ph=" }" />
-            <marker date="1560953230862" expanded="true" signature="13740:13910" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -614,22 +498,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
           <caret line="16" column="13" lean-forward="false" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-          <folding>
-            <marker date="1573354110338" expanded="false" signature="0:104" ph="/.../" />
-            <marker date="1573354110338" expanded="false" signature="149:474" ph="..." />
-            <marker date="1573354110338" expanded="true" signature="554:561" ph="{}" />
-            <marker date="1573354110338" expanded="false" signature="612:623" ph=" { " />
-            <marker date="1573354110338" expanded="false" signature="689:695" ph=" }" />
-            <marker date="1573354110338" expanded="true" signature="767:848" ph="{...}" />
-            <marker date="1573354110338" expanded="true" signature="923:999" ph="{...}" />
-            <marker date="1573354110338" expanded="true" signature="1094:1633" ph="{...}" />
-            <marker date="1573354110338" expanded="true" signature="1695:1787" ph="{...}" />
-            <marker date="1573354110338" expanded="true" signature="1869:1960" ph="{...}" />
-            <marker date="1573354110338" expanded="true" signature="2045:2131" ph="{...}" />
-            <marker date="1573354110338" expanded="true" signature="2236:2785" ph="{...}" />
-            <marker date="1573354110338" expanded="false" signature="2843:2854" ph=" { " />
-            <marker date="1573354110338" expanded="false" signature="2898:2904" ph=" }" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -655,7 +523,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="5" column="23" lean-forward="false" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -663,7 +530,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="297">
           <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -671,9 +537,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="378">
           <caret line="14" column="17" lean-forward="false" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
-          <folding>
-            <marker date="1574005652561" expanded="true" signature="246:272" ph="SELECT * FRO... user" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -720,7 +583,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="81">
           <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -728,7 +590,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="5" column="23" lean-forward="false" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -736,9 +597,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="378">
           <caret line="14" column="17" lean-forward="false" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
-          <folding>
-            <marker date="1574005652561" expanded="true" signature="246:272" ph="SELECT * FRO... user" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -777,7 +635,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="81">
           <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -785,7 +642,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="5" column="23" lean-forward="false" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -793,9 +649,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="378">
           <caret line="14" column="17" lean-forward="false" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
-          <folding>
-            <marker date="1574005652561" expanded="true" signature="246:272" ph="SELECT * FRO... user" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -837,34 +690,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/sqlMapConfig.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$USER_HOME$/.m2/repository/org/mybatis/mybatis/3.5.3/mybatis-3.5.3.jar!/org/apache/ibatis/session/SqlSessionFactoryBuilder.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
           <caret line="16" column="13" lean-forward="false" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-          <folding>
-            <marker date="1573354110338" expanded="false" signature="0:104" ph="/.../" />
-            <marker date="1573354110338" expanded="false" signature="149:474" ph="..." />
-            <marker date="1573354110338" expanded="true" signature="554:561" ph="{}" />
-            <marker date="1573354110338" expanded="false" signature="612:623" ph=" { " />
-            <marker date="1573354110338" expanded="false" signature="689:695" ph=" }" />
-            <marker date="1573354110338" expanded="true" signature="767:848" ph="{...}" />
-            <marker date="1573354110338" expanded="true" signature="923:999" ph="{...}" />
-            <marker date="1573354110338" expanded="true" signature="1094:1633" ph="{...}" />
-            <marker date="1573354110338" expanded="true" signature="1695:1787" ph="{...}" />
-            <marker date="1573354110338" expanded="true" signature="1869:1960" ph="{...}" />
-            <marker date="1573354110338" expanded="true" signature="2045:2131" ph="{...}" />
-            <marker date="1573354110338" expanded="true" signature="2236:2785" ph="{...}" />
-            <marker date="1573354110338" expanded="false" signature="2843:2854" ph=" { " />
-            <marker date="1573354110338" expanded="false" signature="2898:2904" ph=" }" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -872,57 +701,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
           <caret line="41" column="22" lean-forward="false" selection-start-line="41" selection-start-column="13" selection-end-line="41" selection-end-column="34" />
-          <folding>
-            <marker date="1560953230862" expanded="false" signature="0:104" ph="/.../" />
-            <marker date="1560953230862" expanded="false" signature="142:1749" ph="..." />
-            <marker date="1560953230862" expanded="true" signature="2960:2967" ph="{}" />
-            <marker date="1560953230862" expanded="false" signature="3030:3041" ph=" { " />
-            <marker date="1560953230862" expanded="false" signature="3076:3082" ph=" }" />
-            <marker date="1560953230862" expanded="true" signature="3167:3232" ph="{...}" />
-            <marker date="1560953230862" expanded="false" signature="3287:3298" ph=" { " />
-            <marker date="1560953230862" expanded="false" signature="3329:3335" ph=" }" />
-            <marker date="1560953230862" expanded="true" signature="3414:3475" ph="{...}" />
-            <marker date="1560953230862" expanded="false" signature="3517:3528" ph=" { " />
-            <marker date="1560953230862" expanded="false" signature="3544:3550" ph=" }" />
-            <marker date="1560953230862" expanded="false" signature="3600:3611" ph=" { " />
-            <marker date="1560953230862" expanded="false" signature="3626:3632" ph=" }" />
-            <marker date="1560953230862" expanded="false" signature="3661:3672" ph=" { " />
-            <marker date="1560953230862" expanded="false" signature="3690:3696" ph=" }" />
-            <marker date="1560953230862" expanded="false" signature="3735:3746" ph=" { " />
-            <marker date="1560953230862" expanded="false" signature="3765:3771" ph=" }" />
-            <marker date="1560953230862" expanded="false" signature="3822:3833" ph=" { " />
-            <marker date="1560953230862" expanded="false" signature="3856:3862" ph=" }" />
-            <marker date="1560953230862" expanded="false" signature="3928:3939" ph=" { " />
-            <marker date="1560953230862" expanded="false" signature="3984:3990" ph=" }" />
-            <marker date="1560953230862" expanded="true" signature="4063:4128" ph="{...}" />
-            <marker date="1560953230862" expanded="false" signature="4196:4207" ph=" { " />
-            <marker date="1560953230862" expanded="false" signature="4254:4260" ph=" }" />
-            <marker date="1560953230862" expanded="false" signature="4324:4335" ph=" { " />
-            <marker date="1560953230862" expanded="false" signature="4368:4374" ph=" }" />
-            <marker date="1560953230862" expanded="false" signature="4430:4441" ph=" { " />
-            <marker date="1560953230862" expanded="false" signature="4472:4478" ph=" }" />
-            <marker date="1560953230862" expanded="false" signature="4525:4536" ph=" { " />
-            <marker date="1560953230862" expanded="false" signature="4561:4567" ph=" }" />
-            <marker date="1560953230862" expanded="false" signature="4627:4638" ph=" { " />
-            <marker date="1560953230862" expanded="false" signature="4675:4681" ph=" }" />
-            <marker date="1560953230862" expanded="false" signature="4744:4755" ph=" { " />
-            <marker date="1560953230862" expanded="false" signature="4790:4796" ph=" }" />
-            <marker date="1560953230862" expanded="false" signature="4860:4871" ph=" { " />
-            <marker date="1560953230862" expanded="false" signature="4910:4916" ph=" }" />
-            <marker date="1560953230862" expanded="true" signature="5001:5076" ph="{...}" />
-            <marker date="1560953230862" expanded="true" signature="5131:5376" ph="{...}" />
-            <marker date="1560953230862" expanded="true" signature="5473:5546" ph="{...}" />
-            <marker date="1560953230862" expanded="true" signature="5625:5686" ph="{...}" />
-            <marker date="1560953230862" expanded="false" signature="5738:5749" ph=" { " />
-            <marker date="1560953230862" expanded="false" signature="5780:5786" ph=" }" />
-            <marker date="1560953230862" expanded="true" signature="5842:6320" ph="{...}" />
-            <marker date="1560953230862" expanded="true" signature="6398:13234" ph="{...}" />
-            <marker date="1560953230862" expanded="true" signature="13294:13436" ph="{...}" />
-            <marker date="1560953230862" expanded="true" signature="13500:13616" ph="{...}" />
-            <marker date="1560953230862" expanded="false" signature="13650:13661" ph=" { " />
-            <marker date="1560953230862" expanded="false" signature="13673:13679" ph=" }" />
-            <marker date="1560953230862" expanded="true" signature="13740:13910" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -944,7 +722,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
           <caret line="7" column="16" lean-forward="false" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -952,25 +729,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
           <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/jdbc.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
-          <caret line="3" column="18" lean-forward="false" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/itcast/test/MyBatisSpringTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="13" column="9" lean-forward="false" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -978,31 +736,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="324">
           <caret line="12" column="19" lean-forward="false" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
-          <folding>
-            <marker date="1574005652561" expanded="true" signature="246:272" ph="SELECT * FRO... user" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/applicationContext.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="467">
-          <caret line="31" column="64" lean-forward="false" selection-start-line="31" selection-start-column="64" selection-end-line="31" selection-end-column="64" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="529">
-          <caret line="62" column="46" lean-forward="false" selection-start-line="62" selection-start-column="46" selection-end-line="62" selection-end-column="46" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/target/classes/applicationContext.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-81">
+        <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
@@ -1026,8 +765,68 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/target/classes/sqlMapConfig.xml">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="13" column="16" lean-forward="false" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/jdbc.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="18" lean-forward="false" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/itcast/test/MyBatisSpringTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="13" column="9" lean-forward="false" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/sqlMapConfig.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/applicationContext.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="25" column="24" lean-forward="false" selection-start-line="25" selection-start-column="24" selection-end-line="25" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.m2/repository/org/springframework/spring-jdbc/4.2.4.RELEASE/spring-jdbc-4.2.4.RELEASE.pom">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SECOND">
+          <first_editor relative-caret-position="54">
+            <caret line="2" column="57" lean-forward="false" selection-start-line="2" selection-start-column="57" selection-end-line="2" selection-end-column="57" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="11" column="24" lean-forward="false" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
           <folding />
         </state>
       </provider>

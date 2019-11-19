@@ -23,7 +23,7 @@
         <property name="configLocation" value="classpath:sqlMapConfig.xml"/>
     </bean>
 
-    <bean id="mapperFactoryBean" class="org.mybatis.spring.mapper.MapperFactoryBean">
+    <bean id="userMapper" class="org.mybatis.spring.mapper.MapperFactoryBean">
         <property name="sqlSessionFactory" ref="sqlSessionFactoryBean"/>
         <property name="mapperInterface" value="com.itcast.mapper.UserMapper"/>
     </bean>
